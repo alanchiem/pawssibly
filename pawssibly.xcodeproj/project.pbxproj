@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E7232F37283CAE610000CFC3 /* TGCHmm.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F32283CAE610000CFC3 /* TGCHmm.png */; };
+		E7232F38283CAE610000CFC3 /* TGCNo.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F33283CAE610000CFC3 /* TGCNo.png */; };
+		E7232F39283CAE610000CFC3 /* TGCSleep.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F34283CAE610000CFC3 /* TGCSleep.png */; };
+		E7232F3A283CAE610000CFC3 /* TGC.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F35283CAE610000CFC3 /* TGC.png */; };
+		E7232F3B283CAE610000CFC3 /* TGCYes.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F36283CAE610000CFC3 /* TGCYes.png */; };
+		E7232F42283CAEAC0000CFC3 /* CationSleep.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F3D283CAEAC0000CFC3 /* CationSleep.png */; };
+		E7232F43283CAEAC0000CFC3 /* CationYes.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F3E283CAEAC0000CFC3 /* CationYes.png */; };
+		E7232F44283CAEAC0000CFC3 /* Cation.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F3F283CAEAC0000CFC3 /* Cation.png */; };
+		E7232F45283CAEAC0000CFC3 /* CationNo.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F40283CAEAC0000CFC3 /* CationNo.png */; };
+		E7232F46283CAEAC0000CFC3 /* CationHmm.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F41283CAEAC0000CFC3 /* CationHmm.png */; };
+		E7232F49283CAF2E0000CFC3 /* Yes.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F47283CAF2E0000CFC3 /* Yes.png */; };
+		E7232F4A283CAF2E0000CFC3 /* No.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F48283CAF2E0000CFC3 /* No.png */; };
+		E7232F4C283D522E0000CFC3 /* chooseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7232F4B283D522E0000CFC3 /* chooseViewController.swift */; };
+		E7232F52283D725A0000CFC3 /* 10GCHmm.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F4D283D725A0000CFC3 /* 10GCHmm.png */; };
+		E7232F53283D725A0000CFC3 /* 10GCSleep.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F4E283D725A0000CFC3 /* 10GCSleep.png */; };
+		E7232F54283D725A0000CFC3 /* 10GCYes.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F4F283D725A0000CFC3 /* 10GCYes.png */; };
+		E7232F55283D725A0000CFC3 /* 10GC.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F50283D725A0000CFC3 /* 10GC.png */; };
+		E7232F56283D725A0000CFC3 /* 10GCNo.png in Resources */ = {isa = PBXBuildFile; fileRef = E7232F51283D725A0000CFC3 /* 10GCNo.png */; };
 		E797EE5227F959CF00688F66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E797EE5127F959CF00688F66 /* AppDelegate.swift */; };
 		E797EE5427F959CF00688F66 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E797EE5327F959CF00688F66 /* SceneDelegate.swift */; };
 		E797EE5627F959CF00688F66 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E797EE5527F959CF00688F66 /* ViewController.swift */; };
@@ -17,6 +35,14 @@
 		E797EE6C27F959D200688F66 /* pawssiblyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E797EE6B27F959D200688F66 /* pawssiblyTests.swift */; };
 		E797EE7627F959D200688F66 /* pawssiblyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E797EE7527F959D200688F66 /* pawssiblyUITests.swift */; };
 		E797EE7827F959D200688F66 /* pawssiblyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E797EE7727F959D200688F66 /* pawssiblyUITestsLaunchTests.swift */; };
+		E797EE8927F975A500688F66 /* Sleep.png in Resources */ = {isa = PBXBuildFile; fileRef = E797EE8427F975A400688F66 /* Sleep.png */; };
+		E797EE8A27F975A500688F66 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = E797EE8527F975A500688F66 /* Default.png */; };
+		E797EE8B27F975A500688F66 /* Hmm.png in Resources */ = {isa = PBXBuildFile; fileRef = E797EE8627F975A500688F66 /* Hmm.png */; };
+		E797EE9327F9822700688F66 /* SleepDark.png in Resources */ = {isa = PBXBuildFile; fileRef = E797EE8E27F9822700688F66 /* SleepDark.png */; };
+		E797EE9427F9822700688F66 /* NahDark.png in Resources */ = {isa = PBXBuildFile; fileRef = E797EE8F27F9822700688F66 /* NahDark.png */; };
+		E797EE9527F9822700688F66 /* HmmDark.png in Resources */ = {isa = PBXBuildFile; fileRef = E797EE9027F9822700688F66 /* HmmDark.png */; };
+		E797EE9627F9822700688F66 /* SureDark.png in Resources */ = {isa = PBXBuildFile; fileRef = E797EE9127F9822700688F66 /* SureDark.png */; };
+		E797EE9727F9822700688F66 /* DefaultDark.png in Resources */ = {isa = PBXBuildFile; fileRef = E797EE9227F9822700688F66 /* DefaultDark.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +63,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E7232F32283CAE610000CFC3 /* TGCHmm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TGCHmm.png; sourceTree = "<group>"; };
+		E7232F33283CAE610000CFC3 /* TGCNo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TGCNo.png; sourceTree = "<group>"; };
+		E7232F34283CAE610000CFC3 /* TGCSleep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TGCSleep.png; sourceTree = "<group>"; };
+		E7232F35283CAE610000CFC3 /* TGC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TGC.png; sourceTree = "<group>"; };
+		E7232F36283CAE610000CFC3 /* TGCYes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TGCYes.png; sourceTree = "<group>"; };
+		E7232F3D283CAEAC0000CFC3 /* CationSleep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CationSleep.png; sourceTree = "<group>"; };
+		E7232F3E283CAEAC0000CFC3 /* CationYes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CationYes.png; sourceTree = "<group>"; };
+		E7232F3F283CAEAC0000CFC3 /* Cation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cation.png; sourceTree = "<group>"; };
+		E7232F40283CAEAC0000CFC3 /* CationNo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CationNo.png; sourceTree = "<group>"; };
+		E7232F41283CAEAC0000CFC3 /* CationHmm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CationHmm.png; sourceTree = "<group>"; };
+		E7232F47283CAF2E0000CFC3 /* Yes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Yes.png; sourceTree = "<group>"; };
+		E7232F48283CAF2E0000CFC3 /* No.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = No.png; sourceTree = "<group>"; };
+		E7232F4B283D522E0000CFC3 /* chooseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chooseViewController.swift; sourceTree = "<group>"; };
+		E7232F4D283D725A0000CFC3 /* 10GCHmm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10GCHmm.png; sourceTree = "<group>"; };
+		E7232F4E283D725A0000CFC3 /* 10GCSleep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10GCSleep.png; sourceTree = "<group>"; };
+		E7232F4F283D725A0000CFC3 /* 10GCYes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10GCYes.png; sourceTree = "<group>"; };
+		E7232F50283D725A0000CFC3 /* 10GC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10GC.png; sourceTree = "<group>"; };
+		E7232F51283D725A0000CFC3 /* 10GCNo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10GCNo.png; sourceTree = "<group>"; };
 		E797EE4E27F959CF00688F66 /* pawssibly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pawssibly.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E797EE5127F959CF00688F66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E797EE5327F959CF00688F66 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +95,14 @@
 		E797EE7127F959D200688F66 /* pawssiblyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pawssiblyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E797EE7527F959D200688F66 /* pawssiblyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pawssiblyUITests.swift; sourceTree = "<group>"; };
 		E797EE7727F959D200688F66 /* pawssiblyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pawssiblyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E797EE8427F975A400688F66 /* Sleep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sleep.png; sourceTree = "<group>"; };
+		E797EE8527F975A500688F66 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		E797EE8627F975A500688F66 /* Hmm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hmm.png; sourceTree = "<group>"; };
+		E797EE8E27F9822700688F66 /* SleepDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SleepDark.png; sourceTree = "<group>"; };
+		E797EE8F27F9822700688F66 /* NahDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NahDark.png; sourceTree = "<group>"; };
+		E797EE9027F9822700688F66 /* HmmDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HmmDark.png; sourceTree = "<group>"; };
+		E797EE9127F9822700688F66 /* SureDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SureDark.png; sourceTree = "<group>"; };
+		E797EE9227F9822700688F66 /* DefaultDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DefaultDark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +130,59 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E7232F23283C01930000CFC3 /* og cat */ = {
+			isa = PBXGroup;
+			children = (
+				E7232F48283CAF2E0000CFC3 /* No.png */,
+				E7232F47283CAF2E0000CFC3 /* Yes.png */,
+				E797EE8527F975A500688F66 /* Default.png */,
+				E797EE8627F975A500688F66 /* Hmm.png */,
+				E797EE8427F975A400688F66 /* Sleep.png */,
+				E797EE9227F9822700688F66 /* DefaultDark.png */,
+				E797EE9027F9822700688F66 /* HmmDark.png */,
+				E797EE8F27F9822700688F66 /* NahDark.png */,
+				E797EE8E27F9822700688F66 /* SleepDark.png */,
+				E797EE9127F9822700688F66 /* SureDark.png */,
+			);
+			path = "og cat";
+			sourceTree = "<group>";
+		};
+		E7232F26283CACF40000CFC3 /* 10 Gallon Cat */ = {
+			isa = PBXGroup;
+			children = (
+				E7232F50283D725A0000CFC3 /* 10GC.png */,
+				E7232F4D283D725A0000CFC3 /* 10GCHmm.png */,
+				E7232F51283D725A0000CFC3 /* 10GCNo.png */,
+				E7232F4E283D725A0000CFC3 /* 10GCSleep.png */,
+				E7232F4F283D725A0000CFC3 /* 10GCYes.png */,
+			);
+			path = "10 Gallon Cat";
+			sourceTree = "<group>";
+		};
+		E7232F31283CAE4C0000CFC3 /* The Great Catsby */ = {
+			isa = PBXGroup;
+			children = (
+				E7232F35283CAE610000CFC3 /* TGC.png */,
+				E7232F32283CAE610000CFC3 /* TGCHmm.png */,
+				E7232F33283CAE610000CFC3 /* TGCNo.png */,
+				E7232F34283CAE610000CFC3 /* TGCSleep.png */,
+				E7232F36283CAE610000CFC3 /* TGCYes.png */,
+			);
+			path = "The Great Catsby";
+			sourceTree = "<group>";
+		};
+		E7232F3C283CAE9E0000CFC3 /* Cation */ = {
+			isa = PBXGroup;
+			children = (
+				E7232F3F283CAEAC0000CFC3 /* Cation.png */,
+				E7232F41283CAEAC0000CFC3 /* CationHmm.png */,
+				E7232F40283CAEAC0000CFC3 /* CationNo.png */,
+				E7232F3D283CAEAC0000CFC3 /* CationSleep.png */,
+				E7232F3E283CAEAC0000CFC3 /* CationYes.png */,
+			);
+			path = Cation;
+			sourceTree = "<group>";
+		};
 		E797EE4527F959CF00688F66 = {
 			isa = PBXGroup;
 			children = (
@@ -104,8 +209,10 @@
 				E797EE5127F959CF00688F66 /* AppDelegate.swift */,
 				E797EE5327F959CF00688F66 /* SceneDelegate.swift */,
 				E797EE5527F959CF00688F66 /* ViewController.swift */,
+				E7232F4B283D522E0000CFC3 /* chooseViewController.swift */,
 				E797EE5727F959CF00688F66 /* Main.storyboard */,
 				E797EE5D27F959D200688F66 /* Assets.xcassets */,
+				E797EE9827F9868900688F66 /* Pics */,
 				E797EE5F27F959D200688F66 /* LaunchScreen.storyboard */,
 				E797EE6227F959D200688F66 /* Info.plist */,
 				E797EE5A27F959CF00688F66 /* pawssibly.xcdatamodeld */,
@@ -128,6 +235,17 @@
 				E797EE7727F959D200688F66 /* pawssiblyUITestsLaunchTests.swift */,
 			);
 			path = pawssiblyUITests;
+			sourceTree = "<group>";
+		};
+		E797EE9827F9868900688F66 /* Pics */ = {
+			isa = PBXGroup;
+			children = (
+				E7232F3C283CAE9E0000CFC3 /* Cation */,
+				E7232F31283CAE4C0000CFC3 /* The Great Catsby */,
+				E7232F26283CACF40000CFC3 /* 10 Gallon Cat */,
+				E7232F23283C01930000CFC3 /* og cat */,
+			);
+			path = Pics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,9 +352,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7232F55283D725A0000CFC3 /* 10GC.png in Resources */,
+				E7232F49283CAF2E0000CFC3 /* Yes.png in Resources */,
+				E7232F44283CAEAC0000CFC3 /* Cation.png in Resources */,
+				E797EE9627F9822700688F66 /* SureDark.png in Resources */,
+				E7232F45283CAEAC0000CFC3 /* CationNo.png in Resources */,
+				E797EE9727F9822700688F66 /* DefaultDark.png in Resources */,
+				E797EE8B27F975A500688F66 /* Hmm.png in Resources */,
+				E797EE9427F9822700688F66 /* NahDark.png in Resources */,
+				E7232F38283CAE610000CFC3 /* TGCNo.png in Resources */,
+				E7232F56283D725A0000CFC3 /* 10GCNo.png in Resources */,
+				E7232F43283CAEAC0000CFC3 /* CationYes.png in Resources */,
 				E797EE6127F959D200688F66 /* LaunchScreen.storyboard in Resources */,
+				E7232F3B283CAE610000CFC3 /* TGCYes.png in Resources */,
+				E7232F52283D725A0000CFC3 /* 10GCHmm.png in Resources */,
+				E7232F4A283CAF2E0000CFC3 /* No.png in Resources */,
+				E797EE8927F975A500688F66 /* Sleep.png in Resources */,
+				E7232F46283CAEAC0000CFC3 /* CationHmm.png in Resources */,
+				E7232F53283D725A0000CFC3 /* 10GCSleep.png in Resources */,
+				E7232F54283D725A0000CFC3 /* 10GCYes.png in Resources */,
 				E797EE5E27F959D200688F66 /* Assets.xcassets in Resources */,
+				E7232F39283CAE610000CFC3 /* TGCSleep.png in Resources */,
+				E797EE9327F9822700688F66 /* SleepDark.png in Resources */,
+				E7232F42283CAEAC0000CFC3 /* CationSleep.png in Resources */,
 				E797EE5927F959CF00688F66 /* Main.storyboard in Resources */,
+				E7232F3A283CAE610000CFC3 /* TGC.png in Resources */,
+				E797EE8A27F975A500688F66 /* Default.png in Resources */,
+				E7232F37283CAE610000CFC3 /* TGCHmm.png in Resources */,
+				E797EE9527F9822700688F66 /* HmmDark.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,6 +408,7 @@
 				E797EE5627F959CF00688F66 /* ViewController.swift in Sources */,
 				E797EE5227F959CF00688F66 /* AppDelegate.swift in Sources */,
 				E797EE5427F959CF00688F66 /* SceneDelegate.swift in Sources */,
+				E7232F4C283D522E0000CFC3 /* chooseViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -449,8 +593,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -477,8 +622,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
